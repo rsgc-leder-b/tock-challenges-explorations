@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B7827C8F608422FB2D8D8A0CE6F2B1948FBAA10B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B7827C8F608422FB2D8D8A0CE6F2B1948FBAA10B" : 0,
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "12B58506-05BA-4980-AED4-9DAD81BB51DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B7827C8F608422FB2D8D8A0CE6F2B1948FBAA10B" : "tock-challenges-explorations\/",
+    "841F739333088A2DFCAB9B221C5D319235F6D903" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tock-Challenges",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tock-Challenges\/Tock-Challenges.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/Github.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "841F739333088A2DFCAB9B221C5D319235F6D903"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rsgc-leder-b\/tock-challenges-explorations.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7827C8F608422FB2D8D8A0CE6F2B1948FBAA10B"
+    }
+  ]
+}
